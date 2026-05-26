@@ -1,0 +1,28 @@
+{
+  "name": "fortnitenpm",
+  "version": "0.1.1",
+  "description": "A FortniteNPM to communicate with Fortnite",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://fortnite.com/fortnite-npm.git"
+  },
+  "keywords": [
+    "fortnite"
+  ],
+  "author": "FortniteNPM",
+  "license": "Custom",
+  "bugs": {
+    "url": "https://fortnitenpm.com/issues"
+  },
+  "homepage": "https://fortnitenpm.com",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
